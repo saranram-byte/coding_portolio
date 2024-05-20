@@ -1,3 +1,3 @@
-# coding_portolio
-# This file will contain everything academically related whether it was during my Graduate Program or Undergraduate classes
+# Coding_Portfolio
+This repository will consist of coding projects from my coursework(Graduate and Undergraduate), my internships or personal projects to display my skills and the further exploration I have done
 
