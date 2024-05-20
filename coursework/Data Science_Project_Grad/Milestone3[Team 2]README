@@ -1,0 +1,23 @@
+## Data sets ##
+
+NOTE: Highly advised to clear global environment after every Question/Model, many if not all of them share variable names
+
+## Packages ##
+# Make sure to run necessary packages
+
+## SVM ##
+SVM worked as expected with no apparent errors. RMSE Values was a bit alarming but other than that everything was smooth from the coding portion. 
+
+## Neural Networks(NN) ##
+Everything worked well here once we removed the categorical variables. Getting the activation function was something we struggled with finding. We were a
+able to get the necessary neuron info required. 
+
+## Clustering ##
+Everything worked smoothly here. The only thing we decided to do is make all categorical variables a factor or removed them entirely which is seen in the hierarchical clustering method. We realize there is some subjectivity with the elbow plot as well which we mention in our report for K-Means. 
+
+## Comparison Analysis ## 
+We used the NN, Random Forest and SVM for this analysis. Everything ran smoothly
+
+## Feature Selection ##
+Everything ran smoothly. We opted for the Hybrid method taught in class instead of the embedded method. We covered the Filter, Wrapper and Hybrid options. 
+
